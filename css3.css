@@ -1,0 +1,39 @@
+*{margin:0;}
+nav#main_nav     {
+	              width:100%;
+	              background:transparent;
+				  display:table;
+ }
+ #logodiv{width: 120px;float:left;text-align:center;}
+
+.displaySize{width: 1237px;margin:auto;}	  
+				  
+
+#menucontainer{width:850px;float:right;}			  
+#primary_menu    {
+	            list-style:none;
+	            display: flex;
+	             
+	            
+	            }
+				  
+#primary_menu li  {
+                    float:none;
+					 position:relative;
+                  }
+
+#primary_menu li a{
+	             color:black;
+                 text-decoration:none;
+                 font-weight:bold; 
+                  padding:15px 49.5px;
+                 display:block;
+               
+                  }
+img{width:100%;}
+ #primary_menu li a:hover {
+                   color:white;
+                 transition:all 0.8s;
+                 background:#0e4b88;
+                 
+                     }

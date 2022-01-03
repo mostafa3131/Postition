@@ -1,0 +1,23 @@
+#sub_menu {
+	   list-style:none;
+	   padding-left:0px;
+       font-size:12px;
+	   width:180px;
+	   background:#0e4b88; 
+	   position:absolute; 
+	   top:47px; 
+	   left: -0px; 
+	   transform:scaley(0);
+	   transform-origin:top;
+	   transition:all 1s;
+	   }
+	 
+#sub_menu li{
+	   float:none;
+	   
+	   border-bottom:0.05px solid #08050538;
+	  }                                                                                               
+#primary_menu li:hover #sub_menu{transform:scaley(1); }
+
+#sub_menu li a{padding-left:20px;transition:all 0.8s;}
+#sub_menu li a:hover{padding-left:28px; }

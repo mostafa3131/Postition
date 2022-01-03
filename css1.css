@@ -1,0 +1,144 @@
+*P{margin:0;padding:0;}
+div.arfin{
+	display:inline-block;
+    margin:auto;
+	}
+section.ashik{
+	background-color:#90ad97;
+	padding-bottom:80px;
+	text-align:center;
+	overflow:hidden;
+	display:inline-block;
+	}
+
+body{
+	font-family:arial;
+	background:#fff;
+	}
+h1{
+	text-align:center;
+	font-size:50px;
+	margin-bottom: 84px;
+	margin-top:50px;
+	}
+
+h1,hm82,h3,h4,h5,h6{
+	font-family:arial black;
+	}
+h1 span{
+	color:#ff8216;
+	}
+.arman{
+	    width:360px;
+	    padding:10px;
+	    border:1px solid black;
+	    overflow:hidden;
+	    display:inline-block;
+			background: #ecf1f3;
+	    border-radius: 3px;
+	    padding: 5px;
+	    margin: 7px;
+		animation-name:arman;
+		animation-duration:1s;
+	 }
+		p{font-size:15px;}
+div.armanur{
+	        width:280px;
+			float:right;
+			text-align:left;
+			
+	
+}
+div i {
+    font-size: 50px;
+    float: left;
+    padding: 20px;
+    padding: 20px;
+    padding-top: 30px;
+    color: #ff8216;
+}
+div.tomal{
+	background:white;
+	display:inline-block;
+	margin:auto;
+	text-align:center;
+	width: 100%;
+	padding-bottom: 112px;
+	}
+
+.am{
+	
+	background:white;
+	padding-bottom:80px;
+	text-align:center;
+	overflow:hidden;
+	}
+
+
+.mom{
+	border: 180px 198px opx 0px;
+	width: 408px;
+	float:left;
+	border:3px solid bkack;
+	box-shadow: 0px 3px 8px 2px;
+	padding: 2px;
+	margin-left: 151px;
+	}
+.main{
+	width:500px;
+	float:right;
+	text-align:left;
+	margin-right: 84px;
+	}
+.main h3{
+	padding:10px ;
+	border-bottom:3px solid gray;
+	}
+h3 span{
+	color:orange;
+    float: left;
+    padding: 20px;
+    padding: 20px;
+    padding-top: 30px;
+    color: #ff8216;
+         }
+div.tomal{
+	background:#ddd;
+	display:inline-block;
+	margin:auto;
+	text-align:center;
+	width: 100%;
+	padding-bottom: 112px;
+	}
+
+.am{
+	
+	background:#ddd;
+	padding-bottom:80px;
+	text-align:center;
+	overflow:hidden;
+	}
+
+
+.mom{
+	border: 180px 198px opx 0px;
+	width: 408px;
+	float:left;
+	border:3px solid bkack;
+	box-shadow: 0px 3px 8px 2px;
+	padding: 2px;
+	margin-left: 151px;
+	}
+.main{
+	width:500px;
+	float:right;
+	text-align:left;
+	margin-right: 84px;
+	}
+.main h3{
+	padding:10px ;
+	border-bottom:3px solid gray;
+	}
+h3 span{
+	color:orange;
+	}

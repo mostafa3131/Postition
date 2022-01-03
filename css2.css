@@ -1,0 +1,19 @@
+.arman:hover{
+	    width:360px;
+	    padding:10px;
+	    overflow:hidden;
+	    display:inline-block;
+	    background:transparent;
+		color:white;
+	    border-radius: 6px;
+	    padding: 5px;
+	    margin: 7px;
+		transition:all 1s;
+		transform:translatey(-10px);
+		
+		cursor:pointer;
+		
+	 }
+.arman:hover i{color:white;
+	   
+	 }
